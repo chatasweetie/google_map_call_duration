@@ -1,0 +1,4 @@
+geolocation-python==0.2.1
+requests==2.8.1
+simplejson==3.8.1
+wheel==0.24.0
